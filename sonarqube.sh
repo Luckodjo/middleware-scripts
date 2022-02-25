@@ -25,4 +25,3 @@ uthor:luc Kodjo
    ./sonar.sh start
 
    echo "Sonarqube installed and started successfully"
-   "sonarqube.sh" 28L, 603C
